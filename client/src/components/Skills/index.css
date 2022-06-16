@@ -1,0 +1,11 @@
+.skill {
+    text-decoration-line: underline;
+    text-shadow: 2px 2px 3px #b8af9c;
+    margin-top: -60px;
+}
+
+.myInfo {
+    text-align: center;
+    font-weight: bold;
+    text-shadow: 2px 2px 3px #b8af9c;
+}

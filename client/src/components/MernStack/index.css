@@ -1,0 +1,74 @@
+#all{
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	text-shadow: 2px 2px 3px #b8af9c;
+}
+
+#m{
+		position: relative;
+		animation-name: bounce1;
+		animation-duration: 2s;
+		animation-fill-mode: both;
+}
+
+#e{
+		position: relative;
+		animation-name: bounce2;
+		animation-duration: 2s;
+		animation-fill-mode: both;
+}
+
+#r{
+		position: relative;
+		animation-name: bounce3;
+		animation-duration: 2s;
+		animation-fill-mode: both;
+}
+
+#n{
+		position: relative;
+		animation-name: bounce4;
+		animation-duration: 2s;
+		animation-fill-mode: both;
+}
+
+	@keyframes bounce1 {
+		0% {
+            top: -100px;
+            opacity: 0;
+		}
+
+		100% {
+			top: 30px;
+		}
+	}
+	@keyframes bounce2 {
+		0% {
+            top: -120px;
+            opacity: 0;
+		}
+
+		100% {
+			top: 30px;
+		}
+	}
+	@keyframes bounce3 {
+		0% {
+            top: -130px;
+            opacity: 0;
+		}
+
+		100% {
+			top: 30px;
+        }
+    }
+    @keyframes bounce4 {
+		0% {
+            top: -140px;
+            opacity: 0;
+		}
+
+		100% {
+			top: 30px;
+		}
+	}
+

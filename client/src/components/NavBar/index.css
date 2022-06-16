@@ -1,0 +1,30 @@
+.navbar {
+    background-color: #b8af9c;
+    box-shadow: 0 0 10px; color: black;
+    height: 70px;
+}
+
+.nav-link {
+    color: black !important;
+    text-shadow: 1px 1px 2px whitesmoke;
+    font-weight: bold;
+}
+
+#trickShot{
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 10px;
+    z-index: 9999;
+    text-shadow: 1px 1px 2px #b8af9c;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+

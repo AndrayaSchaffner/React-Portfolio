@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+  background-image: url("./assets/images/copperSplash.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100vw;
+}
+
+.top-40{
+  top:40%;
+}
+
+
